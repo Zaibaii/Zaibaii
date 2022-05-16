@@ -14,8 +14,8 @@ J'utilise GitHub pour héberger mes dépôts et partager certains projets.
 Je ne suis pas un développeur professionnel, je travaille dans l'IT (Technologie de l'information), plus précisément dans le domaine des réseaux et des télécommunications.
 Je programme depuis un peu plus de 10 ans, principalement en AutoIt et Batch et depuis moins longtemps en Shell, PowerShell et Python :snake: !
 
-![](https://github.com/Zaibaii/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/Zaibaii/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/Zaibaii/github-stats/blob/master/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/Zaibaii/github-stats/blob/master/generated/languages.svg#gh-light-mode-only)
 
 ![](https://komarev.com/ghpvc/?username=Zaibaii)
 
